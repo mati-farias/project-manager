@@ -1,4 +1,4 @@
-<p align="center"><img src="storage\app\public\Dashboard-project-manager.png" width="600" alt="project-manager-pic"></p>
+<p align="center"><img src="Dashboard-project-manager.png" width="600" alt="project-manager-pic"></p>
 
 # Project Manager
 
