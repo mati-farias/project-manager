@@ -51,3 +51,7 @@ Project Manager is a web-based application designed to help teams manage their p
    php artisan serve
    npm run dev
    ```
+
+### Contact
+- email: mati.farias1991@gmail.com
+- linkedin: https://www.linkedin.com/in/matias-farias-fullstack/
